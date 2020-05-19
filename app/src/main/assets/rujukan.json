@@ -1,0 +1,43 @@
+{
+  "rs" : [{
+    "nama" : "Sanglah Denpasar",
+    "jenis" : "RSUP",
+    "telp" : "(0361) 227912",
+    "buka" : "Buka 24 jam",
+    "alamat" : "Jl. Diponegoro, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",
+    "pos" : {
+      "latitude" : -8.675789,
+      "longitude" : 115.213171
+    }
+  },{
+    "nama" : "Sanjiwani Gianyar",
+    "jenis" : "RSUD",
+    "telp" : "(0361) 943049",
+    "buka" : "Buka 24 jam",
+    "alamat" : "Jl. Ciung Wanara-Gianyar No.2, Gianyar, Kec. Gianyar, Kabupaten Gianyar, Bali 80511",
+    "pos" : {
+      "latitude" : -8.5375385,
+      "longitude" : 115.3219737
+    }
+  },{
+    "nama" : "Tabanan Bali",
+    "jenis" : "BRSU",
+    "telp" : "(0361) 811027",
+    "buka" : "Buka 24 jam",
+    "alamat" : "Jl. Pahlawan No.14, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82121",
+    "pos" : {
+      "latitude" : -8.5391532,
+      "longitude" : 115.13221
+    }
+  },{
+    "nama" : "Kab. Buleleng",
+    "jenis" : "RSUD",
+    "telp" : "(0362) 22046",
+    "buka" : "Buka 24 jam",
+    "alamat" : "Jl. Ngurah Rai No.30, Astina, Kec. Buleleng, Kabupaten Buleleng, Bali 81113",
+    "pos" : {
+      "latitude" : -8.1198073,
+      "longitude" : 115.0924781
+    }
+  }]
+}

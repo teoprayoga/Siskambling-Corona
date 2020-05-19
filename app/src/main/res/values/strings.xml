@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Siskambling</string>
+    <string name="nomor_telepon">Nomor telepon</string>
+    <string name="about"><u>Tentang Aplikasi</u></string>
+    <string name="copy">\u00a9 AjusDev</string>
+    <string name="kode">Kode negara</string>
+    <string name="kirimotp">Kirim OTP</string>
+    <string name="pin">Masukkan PIN</string>
+    <string name="verifikasi">Verifikasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="tab1">Radar</string>
+    <string name="tab2">Periksa</string>
+    <string name="tab3">Pesan</string>
+    <string name="tab4">Info</string>
+    <string name="tab5">Akun</string>
+
+    <string name="permissiontitle">Izin diperlukan</string>
+    <string name="permissionmessage">Izin akses Lokasi diperlukan</string>
+
+    <string name="riwayattitle">Rekaman orang-orang yang pernah anda jumpai dalam 14 hari terakhir.</string>
+    <string name="tentangaplikasi"><b><u>Tentang Aplikasi</u></b></string>
+    <string name="tentangaplikasidet1">Aplikasi ini dirancang dan dibangun berfokus sepenuhnya kepada solusi yang diberikan oleh Pakar Matematika dari UNS Solo, Sutanto Sastraredja.</string>
+    <string name="tentangaplikasidet2">Aplikasi ini dirancang dan dibangun berfokus sepenuhnya kepada solusi yang diberikan oleh Pakar Matematika dari UNS Solo, Sutanto Sastraredja.</string>
+    <string name="srcvideo">Sumber: kumparan.com/kumparanvideo</string>
+    <string name="videokumparan">asset:///kumparan.mp4</string>
+    <string name="supby">Terima kasih kepada:</string>
+    <string name="nebengin">Nebengin</string>
+    <string name="mawa">Mawa</string>
+    <string name="kumparan">Kumparan</string>
+
+    <string name="datakosong">Data kosong</string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+</resources>

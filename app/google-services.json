@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657982920461",
+    "firebase_url": "https://corona-nenten.firebaseio.com",
+    "project_id": "corona-nenten",
+    "storage_bucket": "corona-nenten.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657982920461:android:3c5a191ada373553fac244",
+        "android_client_info": {
+          "package_name": "com.teoajus.coronanenten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657982920461-bb131qcinrbmnpmh2vrkj7lo7oeetrpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7id6eqXI5_fIX7bGnDm58vJkJuAWKn5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657982920461-bb131qcinrbmnpmh2vrkj7lo7oeetrpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

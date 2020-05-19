@@ -1,0 +1,67 @@
+{
+  "message" : "berhasil",
+  "success" : true,
+  "users" : [
+    {
+      "telp" : "+6281237472747",
+      "lat" :  "-8.659512",
+      "lng" :  "115.191246",
+      "created" : "2020-03-03 12:00:00",
+      "profesi" : "",
+      "statusbyuser" : 0,
+      "statusbydok" : 0,
+      "statusbyapp" : 0,
+      "telpdokter" : ""
+    },{
+      "telp" : "+6281234567890",
+      "lat" :  "-8.658770",
+      "lng" :  "115.191096",
+      "created" : "2020-03-03 12:00:00",
+      "profesi" : "",
+      "statusbyuser" : 0,
+      "statusbydok" : 0,
+      "statusbyapp" : 0,
+      "telpdokter" : ""
+    },{
+      "telp" : "+6281234567891",
+      "lat" :  "-8.658563",
+      "lng" :  "115.192933",
+      "created" : "2020-03-03 12:00:00",
+      "profesi" : "",
+      "statusbyuser" : 0,
+      "statusbydok" : 0,
+      "statusbyapp" : 0,
+      "telpdokter" : ""
+    },{
+      "telp" : "+6281234567892",
+      "lat" :  "-8.661745",
+      "lng" :  "115.191881",
+      "created" : "2020-03-03 12:00:00",
+      "profesi" : "",
+      "statusbyuser" : 0,
+      "statusbydok" : 0,
+      "statusbyapp" : 0,
+      "telpdokter" : ""
+    },{
+      "telp" : "+6281234567893",
+      "lat" :  "-8.661766",
+      "lng" :  "115.189089",
+      "created" : "2020-03-03 12:00:00",
+      "profesi" : "",
+      "statusbyuser" : 0,
+      "statusbydok" : 0,
+      "statusbyapp" : 0,
+      "telpdokter" : ""
+    }
+  ],
+  "riwayats" : [
+    {
+      "telp" : "+6281237472747",
+      "ottelp" : "+6281234567890",
+      "lat" :  "60",
+      "lng" :  "60",
+      "created" : "2020-03-03 12:00:00"
+    }
+  ]
+}
+
