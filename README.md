@@ -3,7 +3,7 @@ On Going
 
 How to use:
 1. Download fake GPS on playstore https://play.google.com/store/apps/details?id=com.lexa.fakegps&hl=in
-2. Install Siskamblingcorona
+2. Download & install app-release.apk https://github.com/teoprayoga/siskamblingcorona/tree/master/app/release
 3. Sign in
 4. Open fake GPS -> Go to -> -8.6596321,115.1912518 (set my location)
 5. Open Siskamblingcorona (your location will updated with my location)
