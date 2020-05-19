@@ -73,10 +73,10 @@ public class RadarFragment extends Fragment implements View.OnClickListener, OnM
     MainActivity activity;
     AlertDialog.Builder builder;
     AlertDialog.Builder builderMap;
-    AlertDialog alertDialog;
+    public AlertDialog alertDialog;
     AlertDialog alertDialogMap;
 
-    GoogleMap googleMap;
+    public GoogleMap googleMap;
     String[] perms = {ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION};
 
     @Nullable

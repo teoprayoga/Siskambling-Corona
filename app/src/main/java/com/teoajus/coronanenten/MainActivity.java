@@ -61,7 +61,6 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
 
     public Handler handler;
     public AlertDialog dialogLoading;
-    public AlertDialog alertDialog;
 
     public IconGenerator iconGenerator;
     public SimpleExoPlayer player;
